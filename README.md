@@ -4,7 +4,7 @@
 
 Hello and welcome to my Github page! I am a passionate full-stack developer with a strong interest in building innovative and user-friendly applications. I continuously seeking out new technologies and methodologies to improve my skills.
 
-I have had the opportunity to work on a variety of projects in my learning journey, from a simple pixel art maker to more robust applications such as a student/admin portal for an organization. My aim is to use my technical expertise and problem-solving skills to tackle challenging projects and bring ideas to life.
+I have had the opportunity to work on a variety of projects in my learning journey, from a simple pixel art maker to more robust applications such as a student/admin portal for an mock organization. My aim is to use my technical expertise and problem-solving skills to tackle challenging projects and bring ideas to life.
 
 I am always looking for new and interesting projects to work on, so feel free to get in touch if you have any exciting ideas. Thank you for visiting my page, and I look forward to connecting with you!
 
@@ -28,7 +28,7 @@ I am always looking for new and interesting projects to work on, so feel free to
 </p>
 </br>
 </br>
-
+Dustin's Github
 <p align="left">
   <a href="https://github.com/Swartz-D"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swartz-D&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true&" />
   </a>
