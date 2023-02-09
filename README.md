@@ -28,7 +28,6 @@ I am always looking for new and interesting projects to work on, so feel free to
 </p>
 </br>
 </br>
-Dustin's Github
 <p align="left">
   <a href="https://github.com/Swartz-D"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Swartz-D&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true&" />
   </a>
